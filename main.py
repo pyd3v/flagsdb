@@ -1,1 +1,1 @@
-__author__ = 'Alexander'
+print 2 + 2
